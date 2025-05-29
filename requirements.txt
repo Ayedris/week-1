@@ -1,3 +1,17 @@
+# Sentiment Analysis
+vaderSentiment==3.3.2
+textblob==0.18.0
+
+# Financial Data
+yfinance==0.2.36
+
+# Technical Indicators
+TA-Lib==0.4.0
+PyNance==0.2.6
+#NLP extras
+spacy==3.7.2
+transformers==4.41.1
+
 anyio==4.9.0
 argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
